@@ -8,7 +8,7 @@
   "repository": "https://github.com/sarahkittyy/library-test",
   "scripts": {
     "build": "tsc",
-    "publish": "npm publish --access public"
+    "dist": "npm publish --access public"
   },
   "types": "build/index.d.ts",
   "dependencies": {},
