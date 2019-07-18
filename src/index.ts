@@ -21,5 +21,10 @@ export function sayMeow(times: number): void
  */
 export function meow(times: number): string
 {
-	return 'meow'.repeat(times);
+	let val: string = '';
+	for(let i = 0; i < times; ++i)
+	{
+		val.concat('meow');
+	}
+	return val;
 }
