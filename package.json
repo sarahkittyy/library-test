@@ -5,6 +5,7 @@
   "main": "build/index.js",
   "author": "sarahkittyy <sarahohlin1@gmail.com>",
   "license": "MIT",
+  "repository": "https://github.com/sarahkittyy/library-test",
   "scripts": {
     "build": "tsc",
     "publish": "npm publish --access public"
