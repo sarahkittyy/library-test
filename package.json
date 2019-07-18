@@ -14,5 +14,8 @@
   "devDependencies": {
     "typescript": "^3.5.3"
   },
-  "keywords": ["PublishTest"]
+  "keywords": ["PublishTest"],
+  "files": [
+	  "build/**/*"
+  ]
 }
